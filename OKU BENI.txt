@@ -1,0 +1,14 @@
+UYGULAMA YÖNETİCİSİ
+
+1. Baslat.bat dosyasına çift tıkla ve Windows yönetici izni isterse onayla.
+2. Yüklü uygulamalar sekmesinde isme göre ara, bir satır seç ve Seçileni kaldır'a bas.
+3. Başlangıç sekmesinde bir kayıt seçip Başlangıcı kapat veya Tekrar aç düğmesini kullan.
+4. Defender sekmesinden gerçek zamanlı koruma durumunu görüp değiştirmeyi deneyebilirsin.
+
+Uygulama listesi geçerli kullanıcının AppX / Store paketlerini ve Windows kayıt defterindeki klasik programları gösterir. Bütün Windows bileşenleri veya başka kullanıcıların uygulamaları listede bulunmayabilir. Klasik programların kendi kaldırma ekranı açılır. Bazı sistem uygulamaları Windows tarafından korunur ve kaldırılamaz. Kaldırma kişisel verileri de etkileyebilir.
+
+Başlangıç sekmesi yalnızca kayıt defterindeki Run kayıtlarını gösterir; servisleri, zamanlanmış görevleri, başlangıç klasörünü veya uygulama içi arka plan ayarlarını yönetmez. Bu araçla kapattığın kayıtları aynı kullanıcı hesabıyla geri açabilirsin. Çalışmakta olan bir uygulama kapatılmaz.
+
+Defender gerçek zamanlı korumasını kapatmak güvenliği azaltır. Kurcalama koruması değişikliği engelleyebilir ve Windows korumayı sonradan tekrar açabilir. Araç bu korumaları aşmaz. Windows güncellemeleri bazı uygulamaları tekrar yükleyebilir.
+
+İki dosyayı aynı klasörde tut: Baslat.bat ve UygulamaYoneticisi.ps1.
